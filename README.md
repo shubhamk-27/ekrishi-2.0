@@ -1,4 +1,13 @@
 
+Login Credentials
+
+User
+-> Email - shubhamkoli1927@gmail.com
+   Pass - 1234
+Admin 
+-> Email - admin@gmail.com
+   Pass - 1234
+ 
 ![1](https://user-images.githubusercontent.com/72503268/197344039-c6d8237e-6135-4278-935c-a9eda235f920.png)
 ![2](https://user-images.githubusercontent.com/72503268/197344042-90879f50-5b16-4061-8ad5-48d27b747105.png)
 ![3](https://user-images.githubusercontent.com/72503268/197344044-dcd442c7-eb0c-49a6-a611-f6a6e85621d4.png)
