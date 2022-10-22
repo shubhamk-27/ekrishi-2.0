@@ -1,0 +1,67 @@
+.header {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-align: center;
+        -ms-flex-align: center;
+            align-items: center;
+    -ms-flex-pack: distribute;
+        justify-content: space-around;
+    background-color: gainsboro;
+  }
+  
+  .header h2, .header h3 {
+    color: black;
+    font-style: oblique;
+    text-decoration: none;
+  }
+  
+  .main-window {
+    display: flex;
+    text-align: -webkit-center;
+    height: 71vh;
+    overflow: scroll;
+    flex-wrap: wrap;
+    border: 3px solid firebrick;
+  }
+  
+  .post {
+    border: 1px solid black;
+    width: 30%;
+    min-height: max-content;
+    text-align: left;
+    margin: 25px;
+    border-radius: 5px;
+    background-color: gainsboro;
+    letter-spacing: 1px;
+  }
+  
+  .post h2, .post h5, .post p {
+    padding: 5px;
+    margin: 0;
+  }
+  
+  .form {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+        -ms-flex-direction: column;
+            flex-direction: column;
+    width: 35%;
+    margin: auto;
+  }
+  
+  .form #s, .form button {
+    height: 50px;
+    margin: 5px;
+    font-size: large;
+    letter-spacing: 1px;
+  }
+  
+  .form #l {
+    height: 200px;
+    margin: 5px;
+    font-size: large;
+  }

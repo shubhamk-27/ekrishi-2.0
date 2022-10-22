@@ -1,0 +1,41 @@
+body {
+    background-color: beige;
+}
+
+.headers {
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 30px;
+    color: yellow;
+    margin: -7px 0 5px 0;
+    background-color: #343a40;
+    padding: 13px;
+    text-align: center;
+    border-radius: 5px;
+    text-decoration: underline;
+}
+
+.video-p {
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 20px;
+    margin: 10px 0 0 0;
+    color: yellow;
+    text-align: center;
+}
+
+.video-class {
+    height: 77vh;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    background-color: #343a40;
+    border-radius: 5px;
+    
+    overflow: scroll;
+}
+
+.main-video {
+    margin: 20px 0 20px 0px;
+    border: solid 5px black;
+    border-radius: 20px;
+    padding: 10px;
+}
